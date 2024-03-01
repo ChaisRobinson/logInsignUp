@@ -1,0 +1,46 @@
+.container{
+    margin-top: 50px;
+    padding: 10px;
+    display: flex;
+    align-items: space-between;  
+}
+.boxOne{
+    border-style: groove;
+    padding: 5px;
+}
+
+.boxTwo{
+    border-style: groove;
+    padding: 5px;
+}
+.iconOne{
+    margin-left: 10px;
+}
+.faceOne{
+    margin-left: 50px;
+}
+.logInBox{
+    margin-left: 500px;
+    padding: 10px;
+
+
+}
+.logIn{
+    margin-left: 50px;
+}
+.signUpBox{
+   
+    padding: 10px;
+    padding-left: 500px;
+
+}
+.iconTwo{
+    margin-left: 18px;
+}
+.faceTwo{
+    margin-left: 50px;
+}
+
+.signUp{
+    margin-left: 50px;
+}
